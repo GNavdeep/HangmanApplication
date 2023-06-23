@@ -65,7 +65,7 @@ public class MainHangman {
 					System.out.println("its a bad guess");
 				}
 			}
-		//Allow multiple games
+		   //Allow multiple games
 	
 				
 				
